@@ -59,7 +59,6 @@ public class ArrayRotate
     {
       r%=arr.length;
       r=r<0?r+arr.length:r;
-
       int[] ans=new int[arr.length];
       int k=0;
 

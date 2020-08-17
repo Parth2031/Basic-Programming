@@ -30,7 +30,8 @@ public class NumberFind
         j=i+1;
         break;              
       }
-    }  
+    } 
+     
     return j;
   }
 }
