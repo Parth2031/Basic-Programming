@@ -1,2 +1,3 @@
-# PepCoding_
-DS &amp; Algo (Done in class)
+# PepCoding
+
+Basic Programming in C++ & Java Language (Done in class)
