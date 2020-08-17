@@ -68,6 +68,6 @@ int main(int args,char** argv)
   int data;
   cout<<endl<<"Enter data to be found: ";
   cin>>data;
-  cout<<Lb(arr,data)<<" ";
+  cout<<Lb(arr,data)<<"\t";
   cout<<Ub(arr,data);
 }   
