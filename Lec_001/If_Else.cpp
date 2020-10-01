@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-int main(int args, char** argv)
-{
+int main(int args, char** argv){
+  
   int a=0, b=0, c=0;
   cout<<"Enter a: ";
   cin>>a;
@@ -16,13 +16,13 @@ int main(int args, char** argv)
   cin>>c;
   cout<<"\n";
     
-  if (a>b && a>c) {
+  if (a>b && a>c) {       //begning of nested if loop
     cout<<a;
   }
   else if (b>a && b>c) {
     cout<<b;
   }
-  else {
+  else {                      // ending of loop with else condition 
     cout<<c;
   }
   
